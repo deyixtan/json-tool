@@ -1,0 +1,4 @@
+
+.jsonTree ul>li>ul {display:none;}
+
+.jsonTree ul>li.selected>ul{display:block;}
